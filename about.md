@@ -9,5 +9,3 @@ of Game Design.  My aspirations is to become a better 3D Environmental Artist an
 
    My goals are to not only become better at what it is I can do, but be
 an asset to whatever team I find myself to be apart of.
-
-(https://daringfireball.net/projects/markdown/syntax)
